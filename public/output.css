@@ -554,11 +554,16 @@ video {
   --tw-contain-style:  ;
 }
 
-.bg-inherit {
-  background-color: inherit;
+.max-w-\[1110px\] {
+  max-width: 1110px;
 }
 
 .bg-red-900 {
   --tw-bg-opacity: 1;
   background-color: rgb(127 29 29 / var(--tw-bg-opacity));
+}
+
+.text-red-500 {
+  --tw-text-opacity: 1;
+  color: rgb(239 68 68 / var(--tw-text-opacity));
 }
